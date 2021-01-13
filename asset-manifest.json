@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/admin-advanced-caro/static/css/main.af9b57ed.chunk.css",
+    "main.js": "/admin-advanced-caro/static/js/main.746c2e57.chunk.js",
+    "main.js.map": "/admin-advanced-caro/static/js/main.746c2e57.chunk.js.map",
+    "runtime-main.js": "/admin-advanced-caro/static/js/runtime-main.5376185f.js",
+    "runtime-main.js.map": "/admin-advanced-caro/static/js/runtime-main.5376185f.js.map",
+    "static/css/2.6c0f60ba.chunk.css": "/admin-advanced-caro/static/css/2.6c0f60ba.chunk.css",
+    "static/js/2.871a5cfe.chunk.js": "/admin-advanced-caro/static/js/2.871a5cfe.chunk.js",
+    "static/js/2.871a5cfe.chunk.js.map": "/admin-advanced-caro/static/js/2.871a5cfe.chunk.js.map",
+    "index.html": "/admin-advanced-caro/index.html",
+    "static/css/2.6c0f60ba.chunk.css.map": "/admin-advanced-caro/static/css/2.6c0f60ba.chunk.css.map",
+    "static/css/main.af9b57ed.chunk.css.map": "/admin-advanced-caro/static/css/main.af9b57ed.chunk.css.map",
+    "static/js/2.871a5cfe.chunk.js.LICENSE.txt": "/admin-advanced-caro/static/js/2.871a5cfe.chunk.js.LICENSE.txt",
+    "static/media/O.82403e65.svg": "/admin-advanced-caro/static/media/O.82403e65.svg",
+    "static/media/X.356a115f.svg": "/admin-advanced-caro/static/media/X.356a115f.svg",
+    "static/media/back-arrow.bd4f979b.svg": "/admin-advanced-caro/static/media/back-arrow.bd4f979b.svg",
+    "static/media/key.18a6ba0d.svg": "/admin-advanced-caro/static/media/key.18a6ba0d.svg",
+    "static/media/logo.31df0ce8.svg": "/admin-advanced-caro/static/media/logo.31df0ce8.svg",
+    "static/media/man.4b684e29.svg": "/admin-advanced-caro/static/media/man.4b684e29.svg",
+    "static/media/trophy.bdb500b5.svg": "/admin-advanced-caro/static/media/trophy.bdb500b5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5376185f.js",
+    "static/css/2.6c0f60ba.chunk.css",
+    "static/js/2.871a5cfe.chunk.js",
+    "static/css/main.af9b57ed.chunk.css",
+    "static/js/main.746c2e57.chunk.js"
+  ]
+}
